@@ -1,2 +1,2 @@
 # ShopCartApp-LITG
-AN APP
+ShopCart is an app aimed to help users plan their next shopping trip easily. You can form a group with some members or be alone, it doesn't matter. Just keep on adding the items to the list whenever you remember to buy something along with their quantity and category. This way, while shopping, you can choose shop by category for a better and planned shopping process. You can just click the items that you have bought and press shop. A special feature of this app is that you can also have a look at the previously bought items.
